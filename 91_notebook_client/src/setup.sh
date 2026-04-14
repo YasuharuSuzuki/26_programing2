@@ -6,7 +6,7 @@
 echo "🚀 91_notebook_client セットアップ開始"
 
 # デフォルト設定（本番環境）
-DEFAULT_GITHUB_BASE_URL="https://raw.githubusercontent.com/YasuharuSuzuki/25_isco3/main/91_notebook_client/src"
+DEFAULT_GITHUB_BASE_URL="https://raw.githubusercontent.com/YasuharuSuzuki/26_programing2/main/91_notebook_client/src"
 
 # 環境設定ファイルから読み込み（.env のみ対応、より確実）
 if [ -f ".env" ]; then
